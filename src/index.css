@@ -1,6 +1,6 @@
 *{
-    margin: 0;
-    padding: 0;
+margin: 0;
+padding: 0;
     box-sizing: border-box;
 
 }
@@ -84,7 +84,7 @@ header{
 }
 .main-hero-container{
     height: 80vh;
-    display: flex;
+    display: flex; 
     /* background-color: aqua;   */
 }
 .main-hero-container h1{
@@ -134,7 +134,7 @@ header{
 .header-right-side{
     position: relative;
 }
-.header-right-side img{
+.header-right-side img{  
     width: 60%;
     height: 75%;
     margin-top: 10rem;
