@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Cpay/static/css/main.7a03b388.chunk.css",
-    "main.js": "/Cpay/static/js/main.4adb2cd0.chunk.js",
-    "main.js.map": "/Cpay/static/js/main.4adb2cd0.chunk.js.map",
+    "main.js": "/Cpay/static/js/main.fee1f99c.chunk.js",
+    "main.js.map": "/Cpay/static/js/main.fee1f99c.chunk.js.map",
     "runtime-main.js": "/Cpay/static/js/runtime-main.5f572d46.js",
     "runtime-main.js.map": "/Cpay/static/js/runtime-main.5f572d46.js.map",
     "static/js/2.191b5419.chunk.js": "/Cpay/static/js/2.191b5419.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.5f572d46.js",
     "static/js/2.191b5419.chunk.js",
     "static/css/main.7a03b388.chunk.css",
-    "static/js/main.4adb2cd0.chunk.js"
+    "static/js/main.fee1f99c.chunk.js"
   ]
 }
