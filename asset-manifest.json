@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/cpay/static/css/main.4c9ec642.chunk.css",
-    "main.js": "/cpay/static/js/main.7bc495de.chunk.js",
-    "main.js.map": "/cpay/static/js/main.7bc495de.chunk.js.map",
-    "runtime-main.js": "/cpay/static/js/runtime-main.aecd341a.js",
-    "runtime-main.js.map": "/cpay/static/js/runtime-main.aecd341a.js.map",
-    "static/js/2.191b5419.chunk.js": "/cpay/static/js/2.191b5419.chunk.js",
-    "static/js/2.191b5419.chunk.js.map": "/cpay/static/js/2.191b5419.chunk.js.map",
-    "index.html": "/cpay/index.html",
-    "static/css/main.4c9ec642.chunk.css.map": "/cpay/static/css/main.4c9ec642.chunk.css.map",
-    "static/js/2.191b5419.chunk.js.LICENSE.txt": "/cpay/static/js/2.191b5419.chunk.js.LICENSE.txt"
+    "main.css": "/Cpay/static/css/main.7a03b388.chunk.css",
+    "main.js": "/Cpay/static/js/main.4adb2cd0.chunk.js",
+    "main.js.map": "/Cpay/static/js/main.4adb2cd0.chunk.js.map",
+    "runtime-main.js": "/Cpay/static/js/runtime-main.5f572d46.js",
+    "runtime-main.js.map": "/Cpay/static/js/runtime-main.5f572d46.js.map",
+    "static/js/2.191b5419.chunk.js": "/Cpay/static/js/2.191b5419.chunk.js",
+    "static/js/2.191b5419.chunk.js.map": "/Cpay/static/js/2.191b5419.chunk.js.map",
+    "index.html": "/Cpay/index.html",
+    "static/css/main.7a03b388.chunk.css.map": "/Cpay/static/css/main.7a03b388.chunk.css.map",
+    "static/js/2.191b5419.chunk.js.LICENSE.txt": "/Cpay/static/js/2.191b5419.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.aecd341a.js",
+    "static/js/runtime-main.5f572d46.js",
     "static/js/2.191b5419.chunk.js",
-    "static/css/main.4c9ec642.chunk.css",
-    "static/js/main.7bc495de.chunk.js"
+    "static/css/main.7a03b388.chunk.css",
+    "static/js/main.4adb2cd0.chunk.js"
   ]
 }
